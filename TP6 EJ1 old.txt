@@ -1,0 +1,3 @@
+#hola
+"""hola"""
+n=int(input("Ingrese un numero: "))

@@ -1,0 +1,4 @@
+Salto en Alto
+Promedio de ambas alturas: 5.0
+Salto en Largo
+Promedio de ambas alturas: 6.0

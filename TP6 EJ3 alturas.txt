@@ -1,0 +1,6 @@
+Salto en Alto
+Altura del primer atleta: 4.0
+Altura del segundo atleta: 6.0
+Salto en Largo
+Altura del primer atleta: 5.0
+Altura del segundo atleta: 7.0
